@@ -142,3 +142,15 @@ http://127.0.0.1:8000/html-page
 
 
 You should see the calendar page live in Laravel
+
+Full-stack exposure – You worked with Laravel (PHP backend), HTML templates, and database integration.
+
+Database skills – Imported .sql, configured .env, and linked MySQL via XAMPP.
+
+Frontend integration – Converted static HTML template into Laravel Blade template and made assets work properly.
+
+Automation & testing – Created Selenium Python scripts to automate login testing.
+
+RAG-like thinking (optional) – If you expand later with recommendation or retrieval features, that’s cutting-edge AI integration.
+
+Local deployment skills – Show that you can run projects on local servers using XAMPP
